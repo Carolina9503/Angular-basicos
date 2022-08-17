@@ -24,6 +24,7 @@ export class MainPageComponent  {
     poder: 1000
   }
   agregarNuevoPersonaje(argumento: Personaje){
+    // debuygger
     this.personajes.push(argumento);
   }
 
